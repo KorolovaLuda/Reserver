@@ -1,0 +1,17 @@
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\bin\Debug\netstandard2.0\SmartReserver.deps.json
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\bin\Debug\netstandard2.0\SmartReserver.dll
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\bin\Debug\netstandard2.0\SmartReserver.pdb
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\SmartReserver.csproj.CoreCompileInputs.cache
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\SmartReserver.AssemblyInfoInputs.cache
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\SmartReserver.AssemblyInfo.cs
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\SmartReserver.dll
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\SmartReserver.pdb
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\SmartReserver.csprojAssemblyReference.cache
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\Account.xaml.g.cs
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\Feed.xaml.g.cs
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\MyReservations.xaml.g.cs
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\User.xaml.g.cs
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\Active.xaml.g.cs
+C:\Users\Mind miner\source\repos\SmartReserver\SmartReserver\SmartReserver\obj\Debug\netstandard2.0\Paste.xaml.g.cs

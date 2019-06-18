@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SmartReserver.User"
+             Title="MasterUser">
+    <MasterDetailPage.Master>
+        <ContentPage  Title="Master">
+            <ContentPage.Content>
+                <RelativeLayout Padding="0,0,0,0" Margin="0,0,0,0">
+                    <Image x:Name="back"
+                     RelativeLayout.WidthConstraint=
+                         "{ConstraintExpression Type=RelativeToParent,
+                                                Property=Width,
+                                                Factor=1}"
+                     RelativeLayout.HeightConstraint=
+                         "{ConstraintExpression Type=RelativeToParent,
+                                                Property=Height,
+                                                Factor=1}"></Image>
+                    <StackLayout Padding="100,30,5,5" VerticalOptions="StartAndExpand" HorizontalOptions="StartAndExpand" 
+                     RelativeLayout.WidthConstraint=
+                         "{ConstraintExpression Type=RelativeToParent,
+                                                Property=Width,
+                                                Factor=1}"
+                     RelativeLayout.HeightConstraint=
+                         "{ConstraintExpression Type=RelativeToParent,
+                                                Property=Height,
+                                                Factor=1}">
+                        <Button Text="Feed" Clicked="FeedClicked" TextColor="White" x:Name="Feed" FontFamily="Robotic" FontSize="18" HorizontalOptions="StartAndExpand"></Button>
+                        <Button Text=" Account" Clicked="AccountClicked" TextColor="White" x:Name="Account" FontFamily="Robotic" FontSize="18" HorizontalOptions="StartAndExpand"></Button>
+                        <Button Text=" My reservations" Clicked="MyReservationsClicked" TextColor="White" x:Name="MyReservations" FontFamily="Robotic" FontSize="18" HorizontalOptions="StartAndExpand"></Button>
+                        <Button Text=" Log out" Clicked="LogOutClicked" TextColor="White" x:Name="LogOut" FontFamily="Robotic" FontSize="18" HorizontalOptions="StartAndExpand"></Button>
+                    </StackLayout>
+                </RelativeLayout>
+            </ContentPage.Content>
+        </ContentPage>
+    </MasterDetailPage.Master>
+
+</MasterDetailPage>
